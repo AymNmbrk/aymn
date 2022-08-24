@@ -6,4 +6,6 @@ class lol():
         self.attr=False
         self.lol="lol"
         self.isTrue=True
-        
+        print("hellooooooo")
+    def network(self):
+        self.x=0
