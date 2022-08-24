@@ -3,5 +3,7 @@ class lol():
         self.lel="lel"
         self.attr=""
         self.x=False
+        self.attr=False
+        self.lol="lol"
         self.isTrue=True
         
